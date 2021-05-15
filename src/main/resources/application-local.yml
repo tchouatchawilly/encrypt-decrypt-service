@@ -1,2 +1,7 @@
 server:
   port: 8089
+
+PROJECT_ID: xxxxxxxxx
+LOCATION_ID: xxxxxxx
+KEY_RING_ID: xxxxxxx
+KEY_ID: xxxxxxx
