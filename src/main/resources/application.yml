@@ -1,0 +1,8 @@
+encryption:
+  provider:
+    gcp:
+      enabled: true
+      project-id: ${PROJECT_ID}
+      location-id: ${LOCATION_ID}
+      key-ring-id: ${KEY_RING_ID}
+      key-id: ${KEY_ID}
