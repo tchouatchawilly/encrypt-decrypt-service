@@ -29,8 +29,8 @@ POST http://localhost:8080/api/v1/encrypt-decrypt/decrypt <br/>
 }<br/>
 Response: Decrypted text.
 
-We also configure a simple in-memory basic authentication with following credentials:
-username: admin
+We also configure a simple in-memory basic authentication with following credentials:<br/>
+username: admin<br/>
 passpord: password
 
 
